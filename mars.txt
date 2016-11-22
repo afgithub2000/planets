@@ -2,13 +2,4 @@ cold and dry, but everything.
 
 Matt Damon would figure it out.
 
-temp 3
-
-temp 4
-
-
-new line added 6
-new line added 7
-
-new line 10 
-new line 11
+temp 7
